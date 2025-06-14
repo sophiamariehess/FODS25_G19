@@ -27,7 +27,11 @@ Model-specific training includes:
 
 Install all required packages using the provided `requirements.txt`. Core libraries include:
 
-das
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
 
 To install:
 
