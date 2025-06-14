@@ -20,20 +20,14 @@ Model-specific training includes:
 - `train_svm_basemodel(...)`
 - `tune_svm_hyperparameters(...)`
 - `train_svm_with_pca_manual(...)`
-- `build_best_svm_model(...)`
 - `build_lr_models(...)`
-- `build_best_rf(...)`
+- `build_best_rf(...)
 
 ## Dependencies
 
 Install all required packages using the provided `requirements.txt`. Core libraries include:
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- openpyxl
+das
 
 To install:
 
