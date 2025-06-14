@@ -32,6 +32,7 @@ Install all required packages using the provided `requirements.txt`. Core librar
 - matplotlib
 - seaborn
 - scikit-learn
+- scipy
 
 To install:
 
