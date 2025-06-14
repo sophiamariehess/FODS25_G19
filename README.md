@@ -57,7 +57,7 @@ EDA includes:
 - Correlation matrix
 - Summary statistics and feature relationship insights
 
-## ⚖Handling Class Imbalance
+## Handling Class Imbalance
 
 Class imbalance is checked using the `check_class_balance()` function. If imbalance is detected, stratified splitting and model balancing (e.g., `class_weight='balanced'`) is applied.
 
