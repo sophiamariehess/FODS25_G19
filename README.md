@@ -21,7 +21,7 @@ Model-specific training includes:
 - `tune_svm_hyperparameters(...)`
 - `train_svm_with_pca_manual(...)`
 - `build_lr_models(...)`
-- `build_best_rf(...)
+- `build_best_rf(...)`
 
 ## Dependencies
 
